@@ -57,4 +57,4 @@ def stretch(dir_name, window_length=128*128, cut=True):
 
 if __name__ == '__main__':
     # padding('cat', time_stretch=True)
-    stretch('cow', cut=False)
+    stretch('cat', cut=False)
